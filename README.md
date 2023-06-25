@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src='https://github.com/bloqish/bloqish/blob/main/helloThere.gif?raw=true' />
 
-<!--
-**bloqish/bloqish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###ACCOMPLISHMENTS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Completed all the mainline Halo games on Legendary
+- Conquered all the Gauntlets of Strength in Sekiro: Shadows Die Twice
+- Got the Platinum trophy for:
+  - Marvel's Spider-Man
+  - Marvel's Guardians of the Galaxy
+  - Elden Ring
+  - Bloodborne
+  - Sekiro: Shadows Die Twice
+  - Titanfall 2
+  - Resident Evil 2 Remake
+  - Resident Evil 3 Remake
+  - Resident Evil Village
+  - Resident Evil 4 Remake
