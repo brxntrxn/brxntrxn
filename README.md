@@ -1,5 +1,7 @@
 <img src='https://github.com/bloqish/bloqish/blob/main/helloThere.gif?raw=true' />
 
+Game Stuff = bloqish.com
+
 **ACCOMPLISHMENTS**
 
 - Completed all the mainline Halo games on Legendary
