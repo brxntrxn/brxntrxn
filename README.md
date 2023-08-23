@@ -1,6 +1,6 @@
 <img src='https://github.com/bloqish/bloqish/blob/main/helloThere.gif?raw=true' />
 
-GAME STUFF => http://bloqish.com/
+GAME STUFF => bloqish.com
 
 **GAMING ACCOMPLISHMENTS**
 
